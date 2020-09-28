@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #000000;
+    font-family: monaco,Consolas,Lucida Console,monospace;
+    font-size: 12px;
+    color: #feffff;
+    padding: 20px;
+}
+a, a:hover {
+    color: #ff6d67;
+}
+header {
+    font-size: 24px;
+    font-weight: bold;
+}
+.contact {
+    font-size: 20px;
+    padding-left: 35px;
+}
+
+div {
+    padding-bottom: 10px;
+}
+header div:last-child {
+    padding-bottom: 30px;
+}
+.cyan {
+    color: cyan;
+}
+.arrow-right {
+    color: #00c200;
+    padding-right: 5px;
+}
+header.arrow-right {
+    padding-right: 10px;
+}
+.command {
+    color: #c930c7;
+}
+.cross {
+    color: #c7c400;
+}
+.sub-cat {
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+.last-in-sub-cat {
+    padding-bottom: 20px;
+}
